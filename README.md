@@ -9,13 +9,13 @@ Challenge is to build an interactive and responsive **HTML** page in accordance 
 ## Exercise 1
 
 - Framework used: `Bootsrap 4`
-- GitHub Page: [Click here](https://fawadrafique.github.io/css-integration-mock-challenge/exercise1.html)
+- GitHub Page: [Click here](https://fawadrafique.github.io/css-framework-challenge/exercise1.html)
 
-![Exercise 1](images/exercise-1-wireframe)
+![Exercise 1](images/exercise-1-wireframe.png)
 
 ## Exercise 2
 
 - Framework used: `Tailwind`
-- GitHub Page: [Click here](https://fawadrafique.github.io/css-integration-mock-challenge/exercise2.html)
+- GitHub Page: [Click here](https://fawadrafique.github.io/css-framework-challenge/exercise2.html)
 
 ![Exercise 2](images/exercise-2-wireframe.png)
